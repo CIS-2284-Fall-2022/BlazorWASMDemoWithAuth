@@ -1,0 +1,16 @@
+﻿@page "/authcomponentdemo"
+
+<h3>AuthComponentDemo</h3>
+
+<AuthorizeView>
+    <Authorized>
+        <p>You are logged in!</p>
+    </Authorized>
+    <NotAuthorized>
+        <p>You are not logged in!</p>
+    </NotAuthorized>
+</AuthorizeView>
+<p>You are either logged in or not. It shows this anyway.</p>
+@code {
+
+}

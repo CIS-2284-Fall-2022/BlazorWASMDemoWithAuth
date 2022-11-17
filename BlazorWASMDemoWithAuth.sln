@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWASMDemoWithAuth.Server", "BlazorWASMDemoWithAuth\Server\BlazorWASMDemoWithAuth.Server.csproj", "{1D9C350F-D76E-4F98-ACC9-F5DC3AC9D32B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWASMDemoWithAuth.Server", "BlazorWASMDemoWithAuth\Server\BlazorWASMDemoWithAuth.Server.csproj", "{1D9C350F-D76E-4F98-ACC9-F5DC3AC9D32B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWASMDemoWithAuth.Client", "BlazorWASMDemoWithAuth\Client\BlazorWASMDemoWithAuth.Client.csproj", "{DE1067D0-B0D7-4D92-B8AF-02DB6D93F347}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWASMDemoWithAuth.Client", "BlazorWASMDemoWithAuth\Client\BlazorWASMDemoWithAuth.Client.csproj", "{DE1067D0-B0D7-4D92-B8AF-02DB6D93F347}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWASMDemoWithAuth.Shared", "BlazorWASMDemoWithAuth\Shared\BlazorWASMDemoWithAuth.Shared.csproj", "{53AFBECA-0BCE-4DA8-9041-927F9A07FB01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWASMDemoWithAuth.Shared", "BlazorWASMDemoWithAuth\Shared\BlazorWASMDemoWithAuth.Shared.csproj", "{53AFBECA-0BCE-4DA8-9041-927F9A07FB01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
